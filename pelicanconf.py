@@ -49,3 +49,8 @@ I18N_SUBSITES = {
     },
 }
 I18N_UNTRANSLATED_PAGES = 'remove'
+
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'},
+}
+STATIC_PATHS = ['extra/CNAME']
