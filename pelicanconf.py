@@ -29,7 +29,12 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['i18n_subsites']
+PLUGINS = ['assets', 'i18n_subsites']
+JINJA_EXTENSIONS = ['jinja2.ext.i18n']
+THEME = 'themes/migras'
+ASSET_SOURCE_PATHS = [
+    'static',
+]
 
 LANGUAGES = (
     ('de', 'Deutsch'),
@@ -53,4 +58,19 @@ I18N_UNTRANSLATED_PAGES = 'remove'
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
 }
-STATIC_PATHS = ['extra/CNAME']
+STATIC_PATHS = ['images', 'extra/CNAME']
+
+SUPPORTERS = (
+    ('pea', "https://www.asso-pea.ch/", "PEA - Pour l'Égalité Animale"),
+    ('agstg', "http://www.agstg.ch/", "AGSTG - Aktionsgemeinschaft Schweizer Tierversuchgegner"),
+    ('atra', "http://www.atra.info/", "ATRA - Associazione svizzera per l'abolizione della vivisezione"),
+    ('borta', "http://www.borta.org/", "BORTA"),
+    ('chatsdesrues', "http://www.chatsdesrues.ch/", "Chats des rues"),
+    ('hall', "http://www.al-hallmarks.net/", "Animal Liberation Hallmarks"),
+    ('jv_neuchatel', "http://www.jvne.ch/", "Jeunes vert-e-s Neuchâtel"),
+    ('l214', "http://www.l214.com/", "L214"),
+    ('ligue_vaudoise_defense_animaux', "http://www.defense-animaux.ch/", "Ligue vaudoise de défense des animaux"),
+    ('lscv', "http://www.lscv.ch/", "LSCV - Ligue suisse contre la vivisection"),
+    ('mart', "http://www.mart.ch/", "MART - Mouvement pour les Animaux et le Respect de la Terre"),
+    ('stopgavage', "http://www.stopgavage.com/", "Stop gavage"),
+)

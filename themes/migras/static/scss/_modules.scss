@@ -1,0 +1,53 @@
+@import "_settings";
+
+.migros {
+  color: $migros-color;
+}
+
+ul.horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px 0;
+
+    li {
+        display: inline-block;
+        padding-right: 10px;
+    }
+}
+
+.header {
+  background: transparent url("../images/banner.jpg") no-repeat scroll right center / cover;
+  min-height: 270px;
+  position: relative;
+}
+
+.header--language-chooser {
+  margin-top: 10px;
+}
+
+.header--nav {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(88, 43, 8, 0.5);
+  padding: 0 15px;
+}
+
+.header--logo {
+  margin-top: 30px;
+}
+
+.header--logo--text {
+  text-transform: uppercase;
+  color: white;
+  font-weight: bold;
+  margin-left: 100px;
+  margin-top: 5px;
+}
+
+
+.highlight {
+  color: $migros-color;
+  text-align: center;
+  font-weight: bold;
+}

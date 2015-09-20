@@ -1,0 +1,10 @@
+{% extends "page.html" %}
+
+{% block content %}
+  {{ super() }}
+  <ul class="small-block-grid-3 medium-block-grid-5">
+    {% for supporter in SUPPORTERS %}
+    <li><a href="{{ supporter[1] }}"><img alt="{{ supporter[2] }}" src="/images/logos/{{ supporter[0] }}.jpg"></a></li>
+    {% endfor %}
+  </ul>
+{% endblock %}

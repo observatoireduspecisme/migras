@@ -1,0 +1,153 @@
+@import "_settings";
+
+h1, h2, h3 {
+  color: $migros-color;
+}
+
+.container-main {
+  background-color: white;
+  padding-top: 10px;
+}
+
+a {
+  color: $link-color;
+}
+
+a:hover {
+  color: $link-hover-color;
+  text-decoration: underline;
+}
+
+.header a:hover {
+  color: $link-hover-header-color;
+  text-decoration: none;
+}
+
+// -------- CUT HERE ------
+body {
+  background-image: url("../images/bg.png");
+  padding: 0px;
+  margin: 0px;
+}
+
+.selector ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.selector li {
+  display: inline-block;
+  float: left;
+  padding: 2px;
+  margin-top: 5px;
+  list-style: none;
+  font-family: "MS Trebuchet", Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size: 0.8em;
+}
+
+.selector li a {
+  color: #c2b84a;
+  text-decoration: none;
+  padding: 2px;
+}
+
+.selector li a:hover {
+  color:#F1C145;
+  text-decoration:none;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0){
+  #banner {height:15px; margin-top:20px;}
+  #menu_1 { height:35px; margin-top:40px;}
+  #menu_2 { height:35px; margin-top:-25px;}
+  #content_table {margin-top:-20px;}
+
+}
+
+.menu_1 ul{
+  list-style:none;
+}
+
+.menu_1 li {
+  display: inline-block;
+  float:left;
+  list-style:none;
+}
+
+
+.menu_1 li a{
+  color:#c2b84a;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  text-decoration:none;
+  font-size:0.7em;
+  padding-left:10px;
+  padding-right:0px;
+  font-style:normal;
+  /*padding-top:55px;
+  padding-bottom:-25px;*/
+}
+
+.menu_1 li a:hover{
+  color:#FFFFFF;
+}
+
+
+.menu_1 li a:active{
+  color:#FFFFFF;
+}
+
+.menu_2 ul{
+  list-style:none;
+}
+
+.menu_2 li {
+  display: inline-block;
+  float:left;
+  list-style:none;
+}
+
+
+.menu_2 li a{
+  color:#c2b84a;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  text-decoration:none;
+  font-size:0.7em;
+  font-style:normal;
+  padding-left:5px;
+  padding-right:5px;
+  padding-top:5px;
+  padding-bottom:5px;
+}
+
+
+.menu_2 li a:hover{
+  color:#FFFFFF;
+}
+
+
+#here a{
+  color:#FFFFFF;
+  font-style:normal;
+}
+
+.content_table {
+  padding-right:40px;
+  padding-bottom:40px;
+  padding-left:40px;
+  margin-top:40px;
+  text-align:justify;
+  font-family: "MS Trebuchet", Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size: 70%;
+  color:  #424242;
+  line-height: 155%;
+  position: relative;
+}
+
+div.fb_logo {
+  position: absolute;
+  top: -25px;
+  right: 20px;
+  z-index: 100;
+}
+
