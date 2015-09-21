@@ -5,7 +5,13 @@
       <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
       <meta charset="utf-8" />
       <meta name="description" content="Inséminés, élevés et tués, les morceaux d'animaux présents dans les rayons des magasins Migros ne semblent pas être un exemple pertinent de respect !">
-      {% assets filters="scss,cssmin", output="css/style.min.css", "scss/main.scss", "scss/_layout.scss", "scss/_modules.scss" %}
+      {% assets filters="scss,cssmin", output="css/style.min.css",
+        "vendors/photoswipe/photoswipe.css",
+        "vendors/photoswipe/default-skin/default-skin.css",
+        "scss/main.scss",
+        "scss/_layout.scss",
+        "scss/_modules.scss"
+      %}
         <link rel="stylesheet" href="/{{ ASSET_URL }}">
       {% endassets %}
       <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -72,17 +78,20 @@
         </div>
       </footer>
     </div>
-    {#
     {% assets filters="rjsmin", output="js/main.min.js",
     "foundation/js/vendor/jquery.js",
     "foundation/js/foundation/foundation.js",
-    "foundation/js/foundation/foundation.topbar.js"
+    "foundation/js/foundation/foundation.topbar.js",
+    "vendors/photoswipe/photoswipe.min.js",
+    "vendors/photoswipe/photoswipe-ui-default.min.js",
+    "js/photoswipe.js"
     %}
     <script src="{{ SITEURL }}/{{ ASSET_URL }}"></script>
     {% endassets %}
-    #}
+    {% include "_photoswipe.html" %}
+
     <script>
-$(document).foundation();
+      $(document).foundation();
     </script>
     <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

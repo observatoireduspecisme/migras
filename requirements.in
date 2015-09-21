@@ -4,3 +4,5 @@ typogrify
 cssmin
 webassets
 pip-tools
+pillow
+beautifulsoup4

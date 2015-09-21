@@ -29,7 +29,7 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['assets', 'i18n_subsites']
+PLUGINS = ['assets', 'i18n_subsites', 'image_process']
 JINJA_EXTENSIONS = ['jinja2.ext.i18n']
 THEME = 'themes/migras'
 ASSET_SOURCE_PATHS = [
@@ -59,6 +59,10 @@ EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
 }
 STATIC_PATHS = ['images', 'extra/CNAME']
+IMAGE_PROCESS = {
+    'thumb': ["scale_out 150 120 false", "crop 0 0 150 120"],
+}
+IMAGE_PROCESS_FORCE = True
 
 SUPPORTERS = (
     ('pea', "https://www.asso-pea.ch/", "PEA - Pour l'Égalité Animale"),

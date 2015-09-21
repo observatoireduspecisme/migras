@@ -12,6 +12,41 @@ Chez les canards, seuls les mâles sont gavés, l'utilisation des femelles est i
 
 A un jour, les canetons sont transportés dans un élevage qui les mènera jusqu'à la phase de gavage à l'âge de 80 jours environ.
 
+<div class="photoswipe-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="/images/pleinair.jpg" itemprop="contentUrl" data-size="600x400">
+            <img class="image-process-thumb" src="/images/pleinair.jpg" itemprop="thumbnail" alt="Les canards sont en semi-liberté de leur 40e au 80e jour." />
+        </a>
+        <figcaption itemprop="caption description">Les canards sont en semi-liberté de leur 40e au 80e jour.</figcaption>
+    </figure>
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="/images/hangar.jpg" itemprop="contentUrl" data-size="600x400">
+            <img class="image-process-thumb" src="/images/hangar.jpg" itemprop="thumbnail" alt="Puis ils sont enfermés, pour 87% d'entre eux en cages de batterie." />
+        </a>
+        <figcaption itemprop="caption description">Puis ils sont enfermés, pour 87% d'entre eux en cages de batterie.</figcaption>
+    </figure>
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="/images/cages.jpg" itemprop="contentUrl" data-size="600x400">
+            <img class="image-process-thumb" src="/images/cages.jpg" itemprop="thumbnail" alt="Ils ne peuvent ni se lever, ni se retourner, ni étendre leurs ailes." />
+        </a>
+        <figcaption itemprop="caption description">Ils ne peuvent ni se lever, ni se retourner, ni étendre leurs ailes.</figcaption>
+    </figure>
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="/images/gavage.jpg" itemprop="contentUrl" data-size="600x400">
+            <img class="image-process-thumb" src="/images/gavage.jpg" itemprop="thumbnail" alt="Pendant 12 jours, ils sont gavés au moyen d'un tube de métal de 25 cm." />
+        </a>
+        <figcaption itemprop="caption description">Pendant 12 jours, ils sont gavés au moyen d'un tube de métal de 25 cm.</figcaption>
+    </figure>
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="/images/gavagegrosplan.jpg" itemprop="contentUrl" data-size="600x400">
+            <img class="image-process-thumb" src="/images/gavagegrosplan.jpg" itemprop="thumbnail" alt="La suralimentation forcée provoque des blessures et des maladies." />
+        </a>
+        <figcaption itemprop="caption description">La suralimentation forcée provoque des blessures et des maladies.</figcaption>
+    </figure>
+
+</div>
+
 Le gavage
 ---------
 
