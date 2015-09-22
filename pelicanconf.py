@@ -28,8 +28,8 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['assets', 'i18n_subsites', 'image_process']
+PLUGIN_PATHS = ['pelican-plugins', 'custom_plugins']
+PLUGINS = ['assets', 'i18n_subsites', 'image_process', 'photogallery']
 JINJA_EXTENSIONS = ['jinja2.ext.i18n']
 THEME = 'themes/migras'
 ASSET_SOURCE_PATHS = [
@@ -78,3 +78,12 @@ SUPPORTERS = (
     ('mart', "http://www.mart.ch/", "MART - Mouvement pour les Animaux et le Respect de la Terre"),
     ('stopgavage', "http://www.stopgavage.com/", "Stop gavage"),
 )
+
+GALLERIES = {
+    'gavage': [
+        ('pleinair.jpg', 'Plein air'),
+        ('hangar.jpg', 'En hangar'),
+        ('gavage.jpg', 'Gavage'),
+        ('gavagegrosplan.jpg', 'Gros plan gavage'),
+    ]
+}

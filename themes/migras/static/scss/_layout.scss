@@ -23,6 +23,14 @@ a:hover {
   text-decoration: none;
 }
 
+.hidden {
+  display: none;
+}
+
+figure {
+  margin: 0;
+}
+
 // -------- CUT HERE ------
 body {
   background-image: url("../images/bg.png");
