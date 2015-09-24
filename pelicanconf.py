@@ -28,9 +28,9 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-PLUGIN_PATHS = ['pelican-plugins', 'custom_plugins']
-PLUGINS = ['assets', 'i18n_subsites', 'image_process', 'photogallery']
-JINJA_EXTENSIONS = ['jinja2.ext.i18n']
+PLUGIN_PATHS = ['pelican-plugins', 'custom_plugins/pelican-jinja2content']
+PLUGINS = ['assets', 'i18n_subsites', 'image_process', 'jinja2content']
+JINJA_EXTENSIONS = ['jinja2.ext.i18n', 'jinja2.ext.with_']
 THEME = 'themes/migras'
 ASSET_SOURCE_PATHS = [
     'static',
@@ -81,9 +81,10 @@ SUPPORTERS = (
 
 GALLERIES = {
     'gavage': [
-        ('pleinair.jpg', 'Plein air'),
-        ('hangar.jpg', 'En hangar'),
-        ('gavage.jpg', 'Gavage'),
-        ('gavagegrosplan.jpg', 'Gros plan gavage'),
+        ('pleinair.jpg', "Les canards sont en semi-liberté de leur 40e au 80e jour."),
+        ('hangar.jpg', "Puis ils sont enfermés, pour 87% d'entre eux en cages de batterie."),
+        ('cages.jpg', "Ils ne peuvent ni se lever, ni se retourner, ni étendre leurs ailes."),
+        ('gavage.jpg', "Pendant 12 jours, ils sont gavés au moyen d'un tube de métal de 25 cm."),
+        ('gavagegrosplan.jpg', "La suralimentation forcée provoque des blessures et des maladies."),
     ]
 }

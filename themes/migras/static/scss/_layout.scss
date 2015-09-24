@@ -31,6 +31,10 @@ figure {
   margin: 0;
 }
 
+[class*="block-grid-"] {
+  text-align: center;
+}
+
 // -------- CUT HERE ------
 body {
   background-image: url("../images/bg.png");
