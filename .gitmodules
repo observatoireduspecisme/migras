@@ -4,3 +4,6 @@
 [submodule "themes/migras/static/foundation"]
 	path = themes/migras/static/foundation
 	url = https://github.com/zurb/bower-foundation
+[submodule "custom_plugins/pelican-jinja2content"]
+	path = custom_plugins/pelican-jinja2content
+	url = https://github.com/sephii/pelican-jinja2content
