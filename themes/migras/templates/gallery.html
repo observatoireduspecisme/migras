@@ -1,13 +1,16 @@
-{% macro gallery(photos, classes='medium-block-grid-5') -%}
+{% macro gallery(photos, language, classes='medium-block-grid-5') -%}
 <ul class="{{ classes }} photoswipe-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   {% for photo in photos %}
   <li>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="/images/{{ photo[0] }}" itemprop="contentUrl" data-size="600x400">
         <img class="image-process-thumb" src="/images/{{ photo[0] }}"
-                                         itemprop="thumbnail" alt="{{ gettext(photo[1]) }}" />
+             itemprop="thumbnail"
+             alt="{{ photo[1][language] }}" />
       </a>
-      <figcaption class="hidden" itemprop="caption description">{{ gettext(photo[1]) }}</figcaption>
+      <figcaption class="hidden" itemprop="caption description">
+        {{ photo[1][language] }}
+      </figcaption>
     </figure>
   </li>
   {% endfor %}

@@ -4,7 +4,7 @@
     {% block head %}
       <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
       <meta charset="utf-8" />
-      <meta name="description" content="Inséminés, élevés et tués, les morceaux d'animaux présents dans les rayons des magasins Migros ne semblent pas être un exemple pertinent de respect !">
+      <meta name="description" content="Inséminés, élevés et tués, les morceaux d'animaux présents dans les rayons des magasins Migros ne semblent pas être un exemple pertinent de respect !"/>
       {% assets filters="scss,cssmin", output="css/style.min.css",
         "vendors/photoswipe/photoswipe.css",
         "vendors/photoswipe/default-skin/default-skin.css",
@@ -12,9 +12,9 @@
         "scss/_layout.scss",
         "scss/_modules.scss"
       %}
-        <link rel="stylesheet" href="/{{ ASSET_URL }}">
+      <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}" foobar="{{ ASSET_URL }}"/>
       {% endassets %}
-      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="width=device-width, initial-scale=1"/>
       <link rel="shortcut icon" href="{{ main_siteurl }}/favicon.ico" />
     {% endblock head %}
   </head>
@@ -35,7 +35,7 @@
           <div class="row">
             <div class="medium-12 columns header--logo">
               <a href="{{ SITEURL }}/">
-                <img src="/{{ THEME_STATIC_DIR }}/images/logo.gif">
+                <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo.gif"/>
               </a>
               <p class="header--logo--text">Pour une Migros <span class="migros">sans</span> foie gras</p>
             </div>

@@ -1,5 +1,5 @@
-Title: La vérité sur le gavage
-Lang: fr
+Title: Bla bla bla
+Lang: de
 Position: 01
 Name: gavage
 
@@ -14,7 +14,7 @@ Chez les canards, seuls les mâles sont gavés, l'utilisation des femelles est i
 
 A un jour, les canetons sont transportés dans un élevage qui les mènera jusqu'à la phase de gavage à l'âge de 80 jours environ.
 
-{{ galleries.gallery(GALLERIES['canetons'], 'fr', 'medium-block-grid-3') }}
+{{ galleries.gallery(GALLERIES['canetons'], 'de', 'medium-block-grid-3') }}
 
 Le gavage
 ---------
@@ -23,7 +23,7 @@ Le gavage consiste à administrer de force à l'aide d'un tuyau enfoncé de la g
 
 En France, 75% des canards sont enfermés dans des cages de batterie où ils ne peuvent ni se lever, ni se retourner, ni étendre leurs ailes. La recommandation de 1999 interdit l'usage des cages individuelles (la France n'applique pas cette recommandation...). Comme alternative à la cage individuelle, il existe la cage collective mais elle n'est pas conforme aux termes de la recommandation. D'autres sont enfermés dans des parcs, utilisés pour les oies également.
 
-{{ galleries.gallery(GALLERIES['gavage'], 'fr', 'medium-block-grid-5') }}
+{{ galleries.gallery(GALLERIES['gavage'], 'de', 'medium-block-grid-5') }}
 
 Suite au choc du gavage, l'animal est pris de diarrhées et de halètements. Le fonctionnement du foie est perturbé, l'animal a du mal à réguler la température de son corps, il développe une maladie appelée stéatose hépatique. En outre, les dimensions de son foie hypertrophié qui atteindra presque 10 fois son volume normal, rendent sa respiration diffcile, et ses déplacements pénibles. Les sacs pulmonaires sont compressés, le centre de gravité de l'animal est déplacé.
 

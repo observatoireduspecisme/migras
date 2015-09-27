@@ -78,10 +78,39 @@ SUPPORTERS = (
 
 GALLERIES = {
     'gavage': [
-        ('pleinair.jpg', "Les canards sont en semi-liberté de leur 40e au 80e jour."),
-        ('hangar.jpg', "Puis ils sont enfermés, pour 87% d'entre eux en cages de batterie."),
-        ('cages.jpg', "Ils ne peuvent ni se lever, ni se retourner, ni étendre leurs ailes."),
-        ('gavage.jpg', "Pendant 12 jours, ils sont gavés au moyen d'un tube de métal de 25 cm."),
-        ('gavagegrosplan.jpg', "La suralimentation forcée provoque des blessures et des maladies."),
+        ('pleinair.jpg', {
+            'fr': "Les canards sont en semi-liberté de leur 40e au 80e jour.",
+            'de': "foobar",
+        }),
+        ('hangar.jpg', {
+            'fr': "Puis ils sont enfermés, pour 87% d'entre eux en cages de batterie.",
+            'de': "foobar",
+        }),
+        ('cages.jpg', {
+            'fr': "Ils ne peuvent ni se lever, ni se retourner, ni étendre leurs ailes.",
+            'de': "foobar",
+        }),
+        ('gavage.jpg', {
+            'fr': "Pendant 12 jours, ils sont gavés au moyen d'un tube de métal de 25 cm.",
+            'de': "foobar",
+        }),
+        ('gavagegrosplan.jpg', {
+            'fr': "La suralimentation forcée provoque des blessures et des maladies.",
+            'de': "foobar",
+        }),
+    ],
+    'canetons': [
+        ('carroussel2.jpg', {
+            'fr': "Chaque année en France, 80 millions de canetons naissent pour le foie gras.",
+            'de': "foobar",
+        }),
+        ('sexage.jpg', {
+            'fr': "Leur orifice génital est retourné pour différencier les mâles des femelles.",
+            'de': "foobar",
+        }),
+        ('chute3.jpg', {
+            'fr': "Seuls les mâles sont gavés. Les femelles sont généralement gazées ou broyées.",
+            'de': "foobar",
+        }),
     ]
 }
