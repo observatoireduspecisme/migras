@@ -43,9 +43,6 @@ LANGUAGES = (
 )
 
 I18N_SUBSITES = {
-    'fr': {
-        'SITENAME': 'Migras - Pour une Migros sans foie gras',
-    },
     'it': {
         'SITENAME': 'Migras - Per une Migros senza foie gras',
     },
