@@ -112,5 +112,23 @@ GALLERIES = {
             'fr': "Seuls les mâles sont gavés. Les femelles sont généralement gazées ou broyées.",
             'de': "foobar",
         }),
-    ]
+    ],
+    'mort': [
+        ('mortcage.jpg', {
+            'fr': "1 million de canards meurent chaque année en période de gavage.",
+            'de': "",
+        }),
+        ('egorge.jpg', {
+            'fr': "À l'abattoir, ils sont étourdis par électrochoc puis égorgés.",
+            'de': "",
+        }),
+        ('morts.jpg', {
+            'fr': "On extrait de leur cadavre un foie stéatosé de 6 à 10 fois sa taille normale.",
+            'de': "",
+        }),
+        ('foie.jpg', {
+            'fr': "Le foie de canard gavé à gauche (500g) et le foie de canard normal à droite (75g) ",
+            'de': "",
+        }),
+    ],
 }
