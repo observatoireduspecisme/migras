@@ -1,3 +1,18 @@
+{% macro languages_list(full=false) %}
+  {% for language in LANGUAGES %}
+  <li>
+    <a {% if language[0] == DEFAULT_LANG %}class="active"{% endif %}
+      title="{{ language[1]|title }}" hreflang="{{ language[0] }}"
+      href="/{% if language[0] != "fr" %}{{ language[0] }}/{% endif %}">
+      {% if full|default(false) %}
+        {{ language[1]|title }}
+      {% else %}
+        {{ language[0]|upper }}
+      {% endif %}
+    </a>
+  </li>
+  {% endfor %}
+{% endmacro %}
 <!DOCTYPE html>
 <html lang="{{ DEFAULT_LANG }}">
   <head>
@@ -19,14 +34,34 @@
 
   <body>
     <div class="wrapper">
+      <nav class="top-bar hide-for-medium-up" data-topbar role="navigation"
+           data-options="is_hover: false;mobile_show_parent_link: false;custom_back_text:false">
+        <ul class="title-area">
+          <li class="name"></li>
+          <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
+        </ul>
+
+        <section class="top-bar-section">
+          <ul>
+            {% for p in PAGES %}
+            <li{% if p == page %} class="active"{% endif %}>
+              <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+            </li>
+            {% endfor %}
+            <li class="has-dropdown"><a href="#">{% trans %}Language{% endtrans %}</a>
+              <ul class="dropdown">
+                {{ languages_list(true) }}
+              </ul>
+            </li>
+          </ul>
+        </section>
+      </nav>
       <header class="header row">
         <div class="medium-12 columns">
           <div class="row">
-            <div class="medium-12 columns">
+            <div class="medium-12 columns show-for-medium-up">
               <ul class="horizontal header--language-chooser">
-                <li><a href="/fr/">FR</a></li>
-                <li><a href="/de/">DE</a></li>
-                <li><a href="/it/">IT</a></li>
+                {{ languages_list(false) }}
               </ul>
             </div>
           </div>
