@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Langue"
+msgstr "Sprache"
+
+msgid ""
+"Inséminés, élevés et tués, les morceaux d'animaux présents dans les rayons "
+"des magasins Migros ne semblent pas être un exemple pertinent de respect !"
+msgstr ""
+
+msgid "Pour une Migros <span class=\"migros\">sans</span> foie gras"
+msgstr "Für eine Migros <span class=\"migros\">ohne</span> foie gras"

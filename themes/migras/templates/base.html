@@ -19,7 +19,7 @@
     {% block head %}
       <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
       <meta charset="utf-8" />
-      <meta name="description" content="Inséminés, élevés et tués, les morceaux d'animaux présents dans les rayons des magasins Migros ne semblent pas être un exemple pertinent de respect !"/>
+      <meta name="description" content="{% trans %}Inséminés, élevés et tués, les morceaux d'animaux présents dans les rayons des magasins Migros ne semblent pas être un exemple pertinent de respect !{% endtrans %}"/>
       {% assets filters="scss,cssmin", output="css/style.min.css",
         "vendors/photoswipe/photoswipe.css",
         "vendors/photoswipe/default-skin/default-skin.css",
@@ -48,7 +48,7 @@
               <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
             </li>
             {% endfor %}
-            <li class="has-dropdown"><a href="#">{% trans %}Language{% endtrans %}</a>
+            <li class="has-dropdown"><a href="#">{% trans %}Langue{% endtrans %}</a>
               <ul class="dropdown">
                 {{ languages_list(true) }}
               </ul>
@@ -70,7 +70,7 @@
               <a href="{{ SITEURL }}/">
                 <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo.gif"/>
               </a>
-              <p class="header--logo--text">Pour une Migros <span class="migros">sans</span> foie gras</p>
+              <p class="header--logo--text">{% trans %}Pour une Migros <span class="migros">sans</span> foie gras{% endtrans %}</p>
             </div>
           </div>
         </div>
@@ -82,7 +82,7 @@
                 {% for menu, pages in MENU %}
                   <li {% if pages is not string %}class="has-dropdown"{% endif %}>
                     {% if pages is not string %}
-                      <a href="#">{{ menu }}</a>
+                      <a href="#">{{ menu[DEFAULT_LANG] }}</a>
                       <ul class="dropdown">
                         {% for p in PAGES if p.metadata.name in pages %}
                         <li {% if p == page %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.menutitle|default(p.title) }}</a> </li>
@@ -104,18 +104,6 @@
           {% block content %}{% endblock %}
         </div>
       </div>
-      <footer>
-        <div class="row">
-          <div class="small-12 columns hide-for-large-up social-icons">
-          </div>
-        </div>
-        <div class="row">
-          <div class="small-12 columns medium-full-width">
-            <div class="footer-content">
-            </div>
-          </div>
-        </div>
-      </footer>
     </div>
     {% assets filters="rjsmin", output="js/main.min.js",
     "foundation/js/vendor/jquery.js",
@@ -131,8 +119,7 @@
 
     <script>
       $(document).foundation();
-    </script>
-    <script>
+
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -141,13 +128,5 @@
       ga('create', 'UA-51773621-3', 'auto');
       ga('send', 'pageview');
     </script>
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id)) return;
-js = d.createElement(s); js.id = id;
-js.src = "//connect.facebook.net/{{ DEFAULT_LANG }}_{{ DEFAULT_LANG|upper }}/sdk.js#xfbml=1&appId=278573702314109&version=v2.0";
-fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
   </body>
 </html>

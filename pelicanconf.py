@@ -64,9 +64,21 @@ IMAGE_PROCESS = {
 IMAGE_PROCESS_FORCE = True
 
 MENU = (
-    ("Le gavage", ('gavage', 'suisse')),
-    ("La campagne", ('migros', 'soutien', 'materiel')),
-    ("Contact", 'contact')
+    ({
+        'fr': "Le foie gras",
+        'de': "Die Foie Gras",
+        'it': "Il foie gras",
+    }, ('gavage', 'suisse')),
+    ({
+        'fr': "La campagne",
+        'de': "Die Kampagne",
+        'it': "La campagna",
+    }, ('migros', 'soutien', 'materiel')),
+    ({
+        'fr': "Contact",
+        'de': "Kontakt",
+        'it': "Contatti",
+    }, 'contact')
 )
 
 SUPPORTERS = (
