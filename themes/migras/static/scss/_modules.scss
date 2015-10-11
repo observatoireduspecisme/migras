@@ -1,4 +1,4 @@
-@import "_settings";
+@import "_foundation";
 
 .migros {
   color: $migros-color;
@@ -17,8 +17,12 @@ ul.horizontal {
 
 .header {
   background: transparent url("../images/banner.jpg") no-repeat scroll right center / cover;
-  min-height: 270px;
   position: relative;
+  min-height: 200px;
+
+  @media #{$medium-up} {
+    min-height: 270px;
+  }
 }
 
 .header--language-chooser {
@@ -29,8 +33,7 @@ ul.horizontal {
   position: absolute;
   bottom: 0;
   width: 100%;
-  background-color: rgba(88, 43, 8, 0.5);
-  padding: 0 15px;
+  background-color: $nav-bg-color;
 }
 
 .header--logo {

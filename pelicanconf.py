@@ -11,6 +11,8 @@ PAGE_SAVE_AS = '{slug}/index.html'
 PAGE_LANG_SAVE_AS = '{slug}/index.html'
 PAGE_ORDER_BY = 'position'
 
+DISPLAY_CATEGORIES_ON_MENU = True
+
 PATH = 'content'
 
 TIMEZONE = 'Europe/Zurich'
@@ -60,6 +62,12 @@ IMAGE_PROCESS = {
     'thumb': ["scale_out 150 120 false", "crop 0 0 150 120"],
 }
 IMAGE_PROCESS_FORCE = True
+
+MENU = (
+    ("Le gavage", ('gavage', 'suisse')),
+    ("La campagne", ('migros', 'soutien', 'materiel')),
+    ("Contact", 'contact')
+)
 
 SUPPORTERS = (
     ('pea', "https://www.asso-pea.ch/", "PEA - Pour l'Égalité Animale"),

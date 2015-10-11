@@ -8,9 +8,7 @@
       {% assets filters="scss,cssmin", output="css/style.min.css",
         "vendors/photoswipe/photoswipe.css",
         "vendors/photoswipe/default-skin/default-skin.css",
-        "scss/_foundation.scss",
-        "scss/_layout.scss",
-        "scss/_modules.scss"
+        "scss/main.scss"
       %}
       <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}" foobar="{{ ASSET_URL }}"/>
       {% endassets %}
@@ -41,23 +39,29 @@
             </div>
           </div>
         </div>
-        <div class="header--nav">
-          <nav><ul class="horizontal">
-            {% if DISPLAY_PAGES_ON_MENU %}
-              {% for p in PAGES %}
-                <li{% if p == page %} class="active"{% endif %}>
-                  <a href="{{ SITEURL }}/{{ p.url }}">{{ p.menutitle|default(p.title) }}
-                  </a>
-                </li>
-              {% endfor %}
-            {% else %}
-              {% if DISPLAY_CATEGORIES_ON_MENU %}
-                {% for cat, null in categories %}
-                  <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+        <div class="header--nav show-for-medium-up">
+          <nav class="top-bar" data-topbar role="navigation">
+            <section class="top-bar-section">
+              <ul class="title-area"><li class="name"></li></ul>
+              <ul class="left">
+                {% for menu, pages in MENU %}
+                  <li {% if pages is not string %}class="has-dropdown"{% endif %}>
+                    {% if pages is not string %}
+                      <a href="#">{{ menu }}</a>
+                      <ul class="dropdown">
+                        {% for p in PAGES if p.metadata.name in pages %}
+                        <li {% if p == page %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.menutitle|default(p.title) }}</a> </li>
+                        {% endfor %}
+                      </ul>
+                    {% else %}
+                      {% for p in PAGES if p.metadata.name == pages %}
+                        <a {% if p == page %}class="active"{% endif %} href="{{ SITEURL }}/{{ p.url }}">{{ p.menutitle|default(p.title) }}</a>
+                      {% endfor %}
+                    {% endif %}
                 {% endfor %}
-              {% endif %}
-            {% endif %}
-          </ul></nav>
+              </ul>
+            </section>
+          </nav>
         </div>
       </header>
       <div class="row container-main">

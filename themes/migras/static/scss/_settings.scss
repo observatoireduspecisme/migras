@@ -1,8 +1,30 @@
 $migros-color: #ff6600;
-$link-color: $migros-color;
-$link-hover-header-color: white;
-$link-hover-color: $migros-color;
+$anchor-font-color: $migros-color;
+$anchor-font-color-hover: $migros-color;
+$anchor-text-decoration: none;
+$anchor-text-decoration-hover: underline;
+
+$header-anchor-font-color-hover: white;
+$nav-bg-color: rgba(88, 43, 8, 0.5);
+$nav-bg-color-opaque: rgba(88, 43, 8, 1);
+$nav-bg-color-dark-opaque: rgba(44, 21, 4, 1);
 
 $h1-font-size: rem-calc(27);
 $h2-font-size: rem-calc(23);
 $h3-font-size: rem-calc(18);
+
+// Top bar
+$topbar-bg: none;
+$topbar-link-bg: none;
+$topbar-link-bg-hover: $nav-bg-color-opaque;
+$topbar-dropdown-bg: $nav-bg-color-dark-opaque;
+$topbar-dropdown-link-bg: $nav-bg-color-dark-opaque;
+$topbar-dropdown-link-bg-hover: $nav-bg-color-opaque;
+$topbar-link-bg-active-hover: none;
+
+$topbar-link-color: $anchor-font-color;
+$topbar-link-color-hover: $header-anchor-font-color-hover;
+$topbar-dropdown-link-color: $anchor-font-color;
+$topbar-dropdown-link-color-hover: $header-anchor-font-color-hover;
+
+$topbar-link-font-size: 1rem;

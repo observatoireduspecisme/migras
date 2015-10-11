@@ -2,6 +2,7 @@ Title: La vérité sur le gavage
 Lang: fr
 Position: 01
 Name: gavage
+Category: foiegras
 
 {% import "gallery.html" as galleries %}
 

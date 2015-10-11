@@ -1,4 +1,4 @@
-Title: Respect des animaux, vraiment ?
+Title: Respect des animaux, vraiment ?
 Lang: fr
 Position: 00
 Name: home

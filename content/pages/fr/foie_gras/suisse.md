@@ -2,12 +2,13 @@ Title: Le foie gras en Suisse
 Lang: fr
 Position: 02
 Name: suisse
+Category: foiegras
 
 La production de foie gras contrevient de plusieurs manières à la loi suisse. Elle est donc interdite en Suisse, bien qu'aucun élément de loi ne l'exprime directement.
 
 Pour autant, il n'est pas illicite d'importer du foie gras. La Suisse est d'ailleurs l'un des plus gros importateurs de foie gras du monde. Néanmoins, selon les chiffres de l'Administration des douanes, l'importation de foie gras a subi une forte baisse en 2008 (-58% au 12.2008, par rapport à 2007, selon un article du journal 20 minutes).
 
-Les informations suivantes sont tirées du dossier UN MÉCHANT PETIT GOÛT DE CRUAUTÉ ORDINAIRE produit par la SVPA.
+Les informations suivantes sont tirées du dossier « Un méchant petit goût de cruauté ordinaire » produit par la SVPA.
 
 ### Loi sur la protection des animaux
 
