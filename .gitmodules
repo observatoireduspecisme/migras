@@ -7,3 +7,6 @@
 [submodule "custom_plugins/pelican-jinja2content"]
 	path = custom_plugins/pelican-jinja2content
 	url = https://github.com/sephii/pelican-jinja2content
+[submodule "custom_plugins/image_process"]
+	path = custom_plugins/image_process
+	url = https://github.com/whiskyechobravo/image_process
