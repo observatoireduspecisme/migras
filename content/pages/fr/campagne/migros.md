@@ -2,7 +2,6 @@ Title: Pourquoi la Migros
 Lang: fr
 Position: 03
 Name: migros
-Category: campagne
 
 En Suisse, plusieurs enseignes de vente au détail ont renoncé à vendre le produit du gavage. Migros est de loin la plus importante entreprise qui vend du foie gras.
 

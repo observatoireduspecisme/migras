@@ -1,13 +1,13 @@
-Title: Le foie gras en Suisse
-Lang: fr
+Title: Die foie gras im Schweiz
+Lang: de
 Position: 02
 Name: suisse
 
-La production de foie gras contrevient de plusieurs manières à la loi suisse. Elle est donc interdite en Suisse, bien qu'aucun élément de loi ne l'exprime directement.
+Die Foie Gras-Produktion verstösst auf mehrere Arten und Weisen gegen das Schweizer Recht. Sie ist in der Schweiz verboten, auch wenn kein Element des Rechts sich direkt dazu äussert.
 
-Pour autant, il n'est pas illicite d'importer du foie gras. La Suisse est d'ailleurs l'un des plus gros importateurs de foie gras du monde. Néanmoins, selon les chiffres de l'Administration des douanes, l'importation de foie gras a subi une forte baisse en 2008 (-58% au 12.2008, par rapport à 2007, selon un article du journal 20 minutes).
+Die Einfuhr von Fois Gras ist jedoch nicht illegal. Die Schweiz ist weltweit einer der größten Importeure von Foie Gras. Allerdings hat im Jahr 2008 nach Angaben der Zollverwaltung, die Einfuhr von Stopfleber einem starken Rückgang erlitten (-58% Stand Dezember 2008, im Vergleich zu 2007, nach einem Zeitungsartikel in der 20 Minuten).
 
-Les informations suivantes sont tirées du dossier « Un méchant petit goût de cruauté ordinaire » produit par la SVPA.
+Die folgenden Informationen stammen aus dem Dosier « Un méchant petit goût de cruauté ordinaire » welches von der SVPA produziert wurde.
 
 ### Loi sur la protection des animaux
 

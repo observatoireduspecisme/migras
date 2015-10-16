@@ -2,7 +2,6 @@ Title: Nous soutenir
 Lang: fr
 Position: 04
 Name: soutien
-Category: campagne
 
 La campagne Migros sans foie gras regroupe diverses associations et personnes physiques unies par un but commun. La campagne est ouverte à tous groupes ou personnes désirant participer à la réalisation de ces objectifs. Le matériel est à disposition pour qui veut l'utiliser.
 

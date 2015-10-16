@@ -1,15 +1,14 @@
 Title: Respect des animaux, vraiment ?
 Lang: fr
 Position: 00
-Name: home
+Name: index
 Save_As: index.html
 Template: home
 URL:
-Status: hidden
 
 <blockquote>En achetant à Migros, les clients peuvent être sûrs que leurs
 produits ont été élaborés dans le respect de l'homme, des animaux, et du label
-spécifique, (...)<cite>Rapport développement durable Migros 2007</cite></blockquote>
+spécifique, (…)<cite>Rapport développement durable Migros 2007</cite></blockquote>
 
 Inséminés, élevés et tués, les morceaux d'animaux présents dans les rayons des magasins Migros ne semblent pas être un exemple pertinent de respect ! Le sommet de la négation des intérêts des animaux est atteint avec la vente du foie gras. La Migros au-delà des belles paroles illustrant ces campagnes publicitaires fait fi de toute considération éthique pour les animaux.
 
