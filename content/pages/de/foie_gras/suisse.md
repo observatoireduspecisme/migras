@@ -7,30 +7,28 @@ Die Foie Gras-Produktion verstösst auf mehrere Arten und Weisen gegen das Schwe
 
 Die Einfuhr von Fois Gras ist jedoch nicht illegal. Die Schweiz ist weltweit einer der größten Importeure von Foie Gras. Allerdings hat im Jahr 2008 nach Angaben der Zollverwaltung, die Einfuhr von Stopfleber einem starken Rückgang erlitten (-58% Stand Dezember 2008, im Vergleich zu 2007, nach einem Zeitungsartikel in der 20 Minuten).
 
-Die folgenden Informationen stammen aus dem Dosier « Un méchant petit goût de cruauté ordinaire » welches von der SVPA produziert wurde.
-
-### Loi sur la protection des animaux
+### Tierschutzgesetz (SR 455)
 
 <dl>
-<dt>Art. 2.1</dt>
-<dd>Les animaux doivent être traités de la manière qui tient le mieux compte de leurs besoins.</dd>
+<dt><a href="https://www.admin.ch/opc/de/classified-compilation/20022103/index.html#a4">Art. 4.1.a</a></dt>
+<dd>Wer mit Tieren umgeht, hat ihren Bedürfnissen in bestmöglicher Weise Rechnung zu tragen.</dd>
 
-<dt>Art. 3.2</dt>
-<dd>La liberté de mouvement nécessaire à l'animal ne doit pas être entravée de manière durable ou inutile s'il en résulte pour lui des douleurs, des maux ou des dommages.</dd>
+<dt><a href="https://www.admin.ch/opc/de/classified-compilation/20022103/index.html#a6">Art. 6.1</a></dt>
+<dd>Wer Tiere hält oder betreut, muss sie angemessen nähren, pflegen, ihnen die für ihr Wohlergehen notwendige Beschäftigung und Bewegungsfreiheit sowie soweit nötig Unterkunft gewähren.</dd>
 
-<dt>Art 4.1</dt>
-<dd>Le Conseil fédéral interdit les formes de détention manifestement contraire aux principes de la protection des animaux notamment certaines formes de détention en cage et dans l'obscurité permanente.</dd>
+<dt><a href="https://www.admin.ch/opc/de/classified-compilation/20022103/index.html#a6">Art 6.2</a></dt>
+<dd>Nach Anhören der interessierten Kreise erlässt der Bundesrat unter Berücksichtigung der wissenschaftlichen Erkenntnisse und nach dem Stand der Erfahrung und der technischen Entwicklung Vorschriften über das Halten von Tieren, namentlich Mindestanforderungen. Er verbietet Haltungsarten, die den Grundsätzen des Tierschutzes widersprechen.</dd>
 
-<dt>Art. 22.1</dt>
-<dd>Il est interdit de maltraiter les animaux, de les négliger gravement ou de les surmener inutilement.</dd>
+<dt><a href="https://www.admin.ch/opc/de/classified-compilation/20022103/index.html#a4">Art. 4.2</a></dt>
+<dd>Niemand darf ungerechtfertigt einem Tier Schmerzen, Leiden oder Schäden zufügen, es in Angst versetzen oder in anderer Weise seine Würde missachten. Das Misshandeln, Vernachlässigen oder unnötige Überanstrengen von Tieren ist verboten.</dd>
 </dl>
 
-### Ordonnance sur la protection des animaux
+### Tierschutzverordnung (SR 455.1)
 
 <dl>
-<dt>Art. 2.1</dt>
-<dd>Les animaux doivent recevoir régulièrement et en quantité suffisante une nourriture leur convenant.</dd>
+<dt><a href="https://www.admin.ch/opc/de/classified-compilation/20080796/index.html#a4">Art. 4.1</a></dt>
+<dd>Tiere sind regelmässig und ausreichend mit geeignetem Futter und mit Wasser zu versorgen. Werden Tiere in Gruppen gehalten, so muss die Tierhalterin oder der Tierhalter dafür sorgen, dass jedes Tier genügend Futter und Wasser erhält.</dd>
 
-<dt>Art. 25 Aménagement</dt>
-<dd>c. On prévoira pour les canards; un endroit où ils peuvent se baigner.</dt>
+<dt><a href="https://www.admin.ch/opc/de/classified-compilation/20080796/index.html#a66">Art. 66.3.d</a></dt>
+<dd>Weiter müssen vorhanden sein für Enten und Gänse: eine Schwimmgelegenheit</dd>
 </dl>

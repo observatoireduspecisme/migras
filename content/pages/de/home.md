@@ -15,6 +15,6 @@ Besamt, aufgezogen und getötet - die Tierteile in den Verkaufsregalen von Migro
 
 Das Zwangsstopfen, welches übrigens in der Schweiz seit 1978 verboten ist, ist nichts Anderes als eine Form der Folter unter dem Vorwand der Beibehaltung einer Tradition. Die Stopfleber ist immer noch in den Regalen der Westschweizer Migros-Filialen sowie auf der Internetseite von LeShop zu finden. Die Migros-Klubschule bietet in diesem Jahr außerdem Kochkurse für Foie Gras an. Migros wird somit aktiv bei der Förderung eines Produktes, welches aus dem Missbrauch von Tieren entstanden ist.
 
-Die Kampagne fordert von der Migros-Gruppe, auf den Verkauf von Stopfleber in allen ihren Filialen wie auch auf der Internetseite von LeShop zu verzichten.
+<p class="highlight">Die Kampagne fordert von der Migros-Gruppe, auf den Verkauf von Stopfleber in allen ihren Filialen wie auch auf der Internetseite von LeShop zu verzichten.</p>
 
 Diese Kampagne wird unterstützt von :
