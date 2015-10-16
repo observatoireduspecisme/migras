@@ -18,6 +18,8 @@ msgid ""
 "Inséminés, élevés et tués, les morceaux d'animaux présents dans les rayons "
 "des magasins Migros ne semblent pas être un exemple pertinent de respect !"
 msgstr ""
+"Künstlich befruchtet, gezüchtet, getötet, die im Migros-Sortiment "
+"angebotenen Fleischstücke sind nicht unbedingt ein gutes Beispiel von "
 
 msgid "Pour une Migros <span class=\"migros\">sans</span> foie gras"
 msgstr "Für eine Migros <span class=\"migros\">ohne</span> foie gras"

@@ -32,6 +32,7 @@ In Zeiten der Fütterung werden die Enten auf harten Oberflächen gehalten (Gitt
 
 Nach ungefähr einem Dutzend Tage der Zwangsfütterung werden die Tiere dann zusammengepfercht in Kisten zum Schlachthof gebracht. Sie werden durch eine Elektro-Narkose betäubt und ausgeblutet. Oftmals wachen die Vögel vor oder während der Ausblutung auf. Sie werden dann gerupft, ausgenommen und entleert, und ihre Leber wird zum Konsum entnommen.
 
+{{ galleries.gallery(GALLERIES['mort'], 'de', 'small-block-grid-3 medium-block-grid-4') }}
 
 Foie Gras : und wenn es uns widerfahren würde ?
 -----------------------------------------------
