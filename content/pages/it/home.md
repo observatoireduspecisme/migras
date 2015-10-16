@@ -6,16 +6,29 @@ Save_As: index.html
 Template: home
 URL:
 
-<blockquote>Durch den Kauf bei Migros können die Kunden sicher sein, dass ihre
-Produkte mit Respekt vor Menschen, Tieren und nach dem jeweiligen
-Garantiezeichen produziert worden sind (…)<cite>Migros Nachhaltigkeitsbericht
+<blockquote>Facendo i propri acquisti alla Migros, i clienti sono sicuri di
+comprare prodotti elaborati nel pieno rispetto dell'uomo, degli animali e
+dell'etichetta specifica (…)<cite>Rapporto sullo sviluppo sostenibile Migros
 2007</cite></blockquote>
 
-Besamt, aufgezogen und getötet - die Tierteile in den Verkaufsregalen von Migros scheinen kein einschlägiges Beispiel für Respekt zu sein! Mit dem Verkauf von Foie Gras hat die Negierung von tierischen Interessen ihren Gipfelpunkt erreicht. Die Migros-Gruppe, jenseits der Rhetorik ihrer Werbekampagnen, ignoriert jegliche ethische Achtung gegenüber Tieren.
+Fatti riprodurre, allevati ed uccisi, gli animali fatti a pezzi sugli scaffali
+dei reparti di macelleria dei negozi Migros non sono proprio quello che si
+potrebbe definire un esempio flagrante di rispetto; il massimo della negazione
+degli interessi di questi esseri sensibili é forse raggiunto con la vendita del
+foie gras. La verità à che la Migros, al di là delle belle parole ed immagini
+delle sue campagne pubblicitarie, non ha alcuna considerazione etica degli
+animali.
 
-Das Zwangsstopfen, welches übrigens in der Schweiz seit 1978 verboten ist, ist nichts Anderes als eine Form der Folter unter dem Vorwand der Beibehaltung einer Tradition. Die Stopfleber ist immer noch in den Regalen der Westschweizer Migros-Filialen sowie auf der Internetseite von LeShop zu finden. Die Migros-Klubschule bietet in diesem Jahr außerdem Kochkurse für Foie Gras an. Migros wird somit aktiv bei der Förderung eines Produktes, welches aus dem Missbrauch von Tieren entstanden ist.
+L’ingozzamento, tra l’altro vietato in Svizzera dal 1978, non é niente altro
+che una forma di tortura, attuata con il pretesto del mantenimento di una
+tradizione. Il foie gras si trova non solo nei reparti delle succursali romande
+della Migros, ma anche sullo shop on line LeShop e addirittura nell’offerta dei
+corsi di cucina proposti quest’anno dalla Scuola-club Migros. La Migros si pone
+quindi come soggetto attivo nella promozione di questo prodotto derivato dal
+maltrattamento degli animali.
 
-Die Kampagne fordert von der Migros-Gruppe, auf den Verkauf von Stopfleber in allen ihren Filialen wie auch auf der Internetseite von LeShop zu verzichten.
+<p class="highlight">La campagna chiede al gruppo Migros di rinunciare alla
+vendita del foie gras nella totalità dei suoi negozi e sul sito internet
+Leshop.</p>
 
-Diese Kampagne wird unterstützt von :
-
+Questa associazione é sostenuta da :

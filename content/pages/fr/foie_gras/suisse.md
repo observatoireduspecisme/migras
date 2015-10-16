@@ -30,5 +30,5 @@ Pour autant, il n'est pas illicite d'importer du foie gras. La Suisse est d'aill
 <dd>Les animaux doivent recevoir régulièrement et en quantité suffisante une nourriture leur convenant.</dd>
 
 <dt><a href="https://www.admin.ch/opc/fr/classified-compilation/20080796/index.html#a66">Art. 66.3.d</a></dt>
-<dd>Il faut prévoir en outre pour les canards et les oies une possibilité de nager.</dt>
+<dd>Il faut prévoir en outre pour les canards et les oies une possibilité de nager.</dd>
 </dl>

@@ -44,7 +44,7 @@ LANGUAGES = (
 
 I18N_SUBSITES = {
     'it': {
-        'SITENAME': 'Migras - Per une Migros senza foie gras',
+        'SITENAME': 'Migras - Per una Migros senza foie gras',
     },
     'de': {
         'SITENAME': 'Migras - Für eine Migros ohne foie gras',
@@ -99,54 +99,66 @@ GALLERIES = {
         ('pleinair.jpg', {
             'fr': "Les canards sont en semi-liberté de leur 40e au 80e jour",
             'de': "Die Enten leben vom 40. bis 80. Tag ihres Lebens in Halbfreiheit",
+            'it': "",
         }),
         ('hangar.jpg', {
             'fr': "Puis ils sont enfermés, pour 87% d'entre eux en cages de batterie",
             'de': "Danach werden sie zu 87 % in Batterie-Käfige eingesperrt",
+            'it': "",
         }),
         ('cages.jpg', {
             'fr': "Ils ne peuvent ni se lever, ni se retourner, ni étendre leurs ailes",
             'de': "Sie können sich weder aufrichten, noch sich kehren, noch die Flügel ausbreiten",
+            'it': "",
         }),
         ('gavage.jpg', {
             'fr': "Pendant 12 jours, ils sont gavés au moyen d'un tube de métal de 25 cm",
             'de': "Während 12 Tagen werden sie mit Hilfe eines 25 cm langen Rohrs gemästet",
+            'it': "",
         }),
         ('gavagegrosplan.jpg', {
             'fr': "La suralimentation forcée provoque des blessures et des maladies",
             'de': "Diese Ueberernährung hat Wunden und Krankheiten zur Folge",
+            'it': "",
         }),
     ],
     'canetons': [
         ('carroussel2.jpg', {
             'fr': "Chaque année en France, 80 millions de canetons naissent pour le foie gras",
             'de': "Frankreich rechnet jedes Jahr mit 80 Millionen Enten für ihre Leber",
+            'it': "",
         }),
         ('sexage.jpg', {
             'fr': "Leur orifice génital est retourné pour différencier les mâles des femelles",
             'de': "Der Genitalbereich der Tiere wird umgestülpt, um die Männchen von den Weibchen zu unterscheiden",
+            'it': "",
         }),
         ('chute3.jpg', {
             'fr': "Seuls les mâles sont gavés. Les femelles sont généralement gazées ou broyées",
             'de': "Ausschliesslich die männlichen Enten werden gemästet. Die Weibchen werden vergast oder zerhäckselt",
+            'it': "",
         }),
     ],
     'mort': [
         ('mortcage.jpg', {
             'fr': "1 million de canards meurent chaque année en période de gavage",
             'de': "Jedes Jahr sterben 1 Million Enten während der Mästung",
+            'it': "",
         }),
         ('egorge.jpg', {
             'fr': "À l'abattoir, ils sont étourdis par électrochoc puis égorgés",
             'de': "Im Schlachthaus betäubt sie ein Elektroschock, bevor ihnen die Kehle durchgeschnitten wird",
+            'it': "",
         }),
         ('morts.jpg', {
             'fr': "On extrait de leur cadavre un foie stéatosé de 6 à 10 fois sa taille normale",
             'de': "Ihrem Kadaver entnimmt man eine verfettete Leber, 6 bis 10 Mal  grösser als normal",
+            'it': "",
         }),
         ('foie.jpg', {
             'fr': "Le foie de canard gavé à gauche (500g) et le foie de canard normal à droite (75g)",
             'de': "Links eine verfettete Leber (500g), rechts eine normale Leber (75g)",
+            'it': "",
         }),
     ],
 }
