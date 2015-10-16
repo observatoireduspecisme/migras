@@ -40,7 +40,7 @@ Auf die menschliche Spezies übertragen würde die Zwangsstopfung darin bestehen
 
 <blockquote>Ein Mensch von 60 kg hätte in zwei Wochen 90 kg, jeder kann sich vorstellen, was dies für den Organismus darstellt.<cite>Jacques Merminod, Office vétérinaire Fédéral . ABE teste le foie gras : les derniers jours du canard gavé, TSR</cite></blockquote>
 
-Film : « Enquête au pays du foie gras »
+Film : « Le gavage en question »
 ---------------------------------------
 
 Um zu sehen, was die Vögel wirklich ertragen müssen, können Sie sich auch diesen Film aus dem Jahr 2004 oder diese Bilder aus dem Jahr 2008 aus einer Halle zur Zwangsstopfung in Frankreich ansehen.

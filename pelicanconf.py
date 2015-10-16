@@ -55,7 +55,7 @@ I18N_UNTRANSLATED_PAGES = 'remove'
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
 }
-STATIC_PATHS = ['images', 'extra/CNAME']
+STATIC_PATHS = ['images', 'extra/CNAME', 'pdfs']
 IMAGE_PROCESS = {
     'thumb': ["scale_out 150 120 false", "crop 0 0 150 120"],
 }

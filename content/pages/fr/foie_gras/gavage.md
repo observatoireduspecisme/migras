@@ -40,7 +40,7 @@ Transposé à l'espèce humaine, le gavage consisterait à faire ingurgiter de f
 
 <blockquote>Une personne qui pèserait 60 kilos passe à 90 kilos en deux semaines, chacun peut imaginer ce que ça représente pour l'organisme.<cite>Jacques Merminod, Office vétérinaire Fédéral . ABE teste le foie gras : les derniers jours du canard gavé, TSR</cite></blockquote>
 
-Film : « Enquête au pays du foie gras »
+Film : « Le gavage en question »
 ---------------------------------------
 
 Pour voir ce qu'endurent vraiment les oiseaux, vous pouvez également regarder ce film datant de 2004 ou ces images de 2008 dans des salles de gavage en France.

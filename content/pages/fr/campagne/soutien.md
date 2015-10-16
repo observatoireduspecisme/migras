@@ -30,4 +30,4 @@ Ce que vous pouvez faire :
 * Participer à
   [une action agendée](https://www.facebook.com/pages/Campagne-pour-une-Migros-SANS-FOIE-GRAS/468110966621073?sk=events).
 
-En tous les cas, merci de nous faire part de vos action prévues et passées en nous envoyant un mail à info@migras.ch.
+En tous les cas, merci de nous faire part de vos action prévues et passées en nous envoyant un mail à info@asso-pea.ch.
