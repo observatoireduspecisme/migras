@@ -28,7 +28,7 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-PLUGIN_PATHS = ['pelican-plugins', 'custom_plugins/pelican-jinja2content']
+PLUGIN_PATHS = ['pelican-plugins', 'custom_plugins/pelican-jinja2content', 'custom_plugins']
 PLUGINS = ['assets', 'i18n_subsites', 'image_process', 'jinja2content']
 JINJA_EXTENSIONS = ['jinja2.ext.i18n', 'jinja2.ext.with_']
 THEME = 'themes/migras'
