@@ -3,7 +3,10 @@ Lang: fr
 Position: 05
 Name: materiel
 
-Vous voulez des tracts pour les distribuer autour de chez vous ? Des DVD stop gavage pour montrer à quelques récalcitrants ce que signifie le morceau de foie gras présent dans leurs assiettes ? Vous voulez nous soutenir en envoyant des cartes postales à la Migros ?
+Vous voulez des tracts pour les distribuer autour de chez vous ? Des DVD « Le
+gavage en question » pour montrer à quelques récalcitrant-e-s ce que signifie le
+morceau de foie gras présent dans leurs assiettes ? Vous voulez nous soutenir
+en envoyant des cartes postales de protestation à la Migros ?
 
 Tout ce matériel peut vous être envoyé ! Passez votre commande en nous écrivant à info@asso-pea.ch.
 
@@ -20,7 +23,7 @@ Tout ce matériel peut vous être envoyé ! Passez votre commande en nous écri
         <a href="/pdfs/cartes.pdf">
             <figure>
                 <img src="/images/materiel/carte.jpg">
-                <figcaption itemprop="caption description">Carte postale</figcaption>
+                <figcaption itemprop="caption description">Carte postale de protestation</figcaption>
             </figure>
         </a>
     </li>

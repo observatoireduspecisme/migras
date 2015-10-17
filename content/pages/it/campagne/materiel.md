@@ -3,10 +3,10 @@ Lang: it
 Position: 05
 Name: materiel
 
-Desiderate dei volantini da distribuire dalle vostre parti ? Dei DVD stop
-gavage per mostrare ai soliti recalcitranti che cosa significa il pezzetto di
-foie gras nel loro piatto ? Volete sostenerci inviando delle cartoline alla
-Migros ?
+Desiderate dei volantini da distribuire dalle vostre parti ? Dei DVD « Le
+gavage en question » per mostrare ai soliti recalcitranti che cosa significa il
+pezzetto di foie gras nel loro piatto ? Volete sostenerci inviando delle
+cartoline alla Migros ?
 
 Possiamo mandarvi tutto il materiale ! Basta fare l’ordine scrivendo a :
 info@asso-pea.ch.

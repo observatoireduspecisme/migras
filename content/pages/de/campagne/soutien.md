@@ -5,7 +5,7 @@ Name: soutien
 
 Die Kampagne Migros ohne Foie Gras vereint verschiedene Organisationen und Einzelpersonen mit einem gemeinsamen Ziel. Die Kampagne ist für alle Gruppen oder Einzelpersonen offen, die sich bei der Verwirklichung dieser Ziele beteiligen möchten. Das Material steht für diejenigen zur Verfügung, die es verwenden möchten.
 
-Es ist eine Selbstverständlichkeit, das Tier- und Menschenrechte unteilbar sind und das somit die Kampagne nur von den Gruppen vertreten werden kann, welche jegliche Form von Diskriminierung (wie z.B. rassistischer oder sexistischer Art) bei ihrer Tätigkeit und in ihren Idealen ablehnen. Aus diesem Grund hält sich die Kampagne Migros ohne Foie Gras an die Vorschriften der Animal Liberation Hall Marks.
+Es ist eine Selbstverständlichkeit, das Tier- und Menschenrechte unteilbar sind und das somit die Kampagne nur von den Gruppen vertreten werden kann, welche jegliche Form von Diskriminierung (wie z.B. rassistischer oder sexistischer Art) bei ihrer Tätigkeit und in ihren Idealen ablehnen.
 
 Spende
 ------

@@ -5,7 +5,7 @@ Name: soutien
 
 La campagna Migros senza foie gras raggruppa diverse associazioni e persone fisiche unite da uno scopo comune. La campagna é aperta a tutti i gruppi o persone che desiderano partecipare attivamente alla realizzazione di questi obiettivi. Il materiale verrà messo a disposizione di chi volesse l’utilizzare.
 
-I diritti degli animali e quelli umani sono per noi indissociabili. Va da sé che i gruppi che aderiscono alla campagna non devono avere discriminanti di nessun tipo (razziste o sessiste, ad esempio) nel loro funzionamento o nei loro ideali. È per questo motivo che la campagna Migros senza foie gras aderisce ai precetti di Animal Liberation Hall Marks.
+I diritti degli animali e quelli umani sono per noi indissociabili. Va da sé che i gruppi che aderiscono alla campagna non devono avere discriminanti di nessun tipo (razziste o sessiste, ad esempio) nel loro funzionamento o nei loro ideali.
 
 Donazioni
 ---------
