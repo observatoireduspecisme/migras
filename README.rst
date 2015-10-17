@@ -30,6 +30,4 @@ Deploying
 
 Run the following::
 
-    pelican content
-    ghp-import output
-    git push origin gh-pages
+    make github

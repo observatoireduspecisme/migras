@@ -98,6 +98,9 @@ stopserver:
 
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	# Foundation for example is installed as a git submodule so we need to get
+	# rid of .git or we can't push to github
+	find $(OUTPUTDIR) -name .git -delete
 
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
