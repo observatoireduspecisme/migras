@@ -28,6 +28,6 @@ Cosa potete fare :
 * Scrivere una mail o una lettera alla Migros per esprimere il vostro disappunto : info@migros.ch
 * Organizzare un’azione (distribuzione di volantini, manifestazione, stand o altro)
 * Potete scaricare da internet, ordinare o prendere in prestito il [materiale]({filename}materiel.md) (set completo per l’organizzazione di uno stand) e organizzare voi stessi un avvenimento oppure contattarci per un’organizzazione congiunta
-* Partecipare ad un’ [azione prevista](https://www.facebook.com/pages/Campagne-pour-une-Migros-SANS-FOIE-GRAS/468110966621073?sk=events).
+* Partecipare ad un’ [azione prevista]({{ FACEBOOK_URL }}?sk=events).
 
 In ogni caso, comunicateci le vostre azioni previste o già svoltesi, e non dimenticate di inviarci i vostri resoconti corredati dalle foto : info@asso-pea.ch.

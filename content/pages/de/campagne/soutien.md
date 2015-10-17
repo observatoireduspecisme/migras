@@ -28,6 +28,6 @@ Was Sie tun können :
 * Schreiben Sie eine E-Mail an die Migros, um ihnen Ihre Unzufriedenheit mitzuteilen: info@migros.ch
 * Organisieren Sie eine Aktion (Flyer-Verteilung, Demonstration, Infostände oder sonstige Aktionen)
 * Sie können das Material entweder [herunterladen, bestellen, von uns ausleihen]({filename}materiel.md) (komplette Sets für eine Organisation eines Infostands) und den Event selber planen, oder uns für eine gemeinschaftliche Zusammenarbeit kontaktieren
-* Beteiligen Sie sich an einer [geplanten Aktion](https://www.facebook.com/pages/Campagne-pour-une-Migros-SANS-FOIE-GRAS/468110966621073?sk=events).
+* Beteiligen Sie sich an einer [geplanten Aktion]({{ FACEBOOK_URL }}?sk=events).
 
 Wir möchten Sie auf jeden Fall darum bitten, uns zu allen geplanten und bisherigen Aktionen zu informieren : info@asso-pea.ch.

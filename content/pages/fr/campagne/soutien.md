@@ -14,7 +14,7 @@ des disciminantes (par exemple racistes ou sexistes) dans leur fonctionnement
 et leurs idéaux.
 
 Pour suivre l'actualité de la campagne et les comptes rendus d'actions, visitez
-notre [page Facebook](https://www.facebook.com/pages/Campagne-pour-une-Migros-SANS-FOIE-GRAS/468110966621073).
+notre [page Facebook]({{ FACEBOOK_URL }}).
 
 En faisant un don
 -----------------
@@ -50,7 +50,7 @@ Ce que vous pouvez faire :
   stands) et organiser par vous-même l'événement, soit nous contacter pour une
   organisation collaborative;
 * Participer à [une action
-  agendée](https://www.facebook.com/pages/Campagne-pour-une-Migros-SANS-FOIE-GRAS/468110966621073?sk=events).
+  agendée]({{ FACEBOOK_URL }}?sk=events).
 
 En tous les cas, merci de nous faire part de vos action prévues et passées en
 nous envoyant un mail à info@asso-pea.ch.

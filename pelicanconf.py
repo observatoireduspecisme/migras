@@ -163,3 +163,5 @@ GALLERIES = {
         }),
     ],
 }
+
+FACEBOOK_URL = 'https://www.facebook.com/pages/Campagne-pour-une-Migros-SANS-FOIE-GRAS/468110966621073'
