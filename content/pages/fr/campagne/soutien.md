@@ -13,6 +13,9 @@ soi que la campagne ne peut être représentée et utilisée par des groupes aya
 des disciminantes (par exemple racistes ou sexistes) dans leur fonctionnement
 et leurs idéaux.
 
+Pour suivre l'actualité de la campagne et les comptes rendus d'actions, visitez
+notre [page Facebook](https://www.facebook.com/pages/Campagne-pour-une-Migros-SANS-FOIE-GRAS/468110966621073).
+
 En faisant un don
 -----------------
 
