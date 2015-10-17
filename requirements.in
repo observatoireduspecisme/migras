@@ -7,3 +7,4 @@ pip-tools
 pillow
 beautifulsoup4
 ghp-import
+typogrify
